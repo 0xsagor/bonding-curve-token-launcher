@@ -1,0 +1,10 @@
+{
+  "name": "bonding-curve-token-launcher",
+  "version": "1.0.0",
+  "description": "Linear Bonding Curve Token Implementation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
